@@ -1,0 +1,28 @@
+name: Laravel
+favicon: null
+layout_spectrum: 0.23880104254931211
+typography_spectrum: 0.572237107437104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4646861939691007
+  lightness: 0.2639657862018794
+  saturation: 0.35895619518123567
+  rhythmicContrast: 0.9006297597661614
+purpose: []
